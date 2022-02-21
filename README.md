@@ -3,7 +3,7 @@
 ![Snake animation](https://github.com/xlucasbitencourt/xlucasbitencourt/blob/output/github-contribution-grid-snake.svg)
 -->
 
-## Hi there 👋
+## Olá 👋
 
 #### Me chamo Lucas, e estou estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/).
 
