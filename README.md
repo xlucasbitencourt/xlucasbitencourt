@@ -1,7 +1,5 @@
-<!--
- Ativar este link! 
 ![Snake animation](https://github.com/xlucasbitencourt/xlucasbitencourt/blob/output/github-contribution-grid-snake.svg)
--->
+
 
 ## Olá 👋
 
