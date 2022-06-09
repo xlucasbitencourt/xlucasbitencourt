@@ -16,7 +16,7 @@ Gosto de jogos, música, natureza, e gatos! (principalmente, gatos!)
 Essa bio provavelmente ficará mais interessante no futuro, então fique a vontade para acompanhar meu progresso :)
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasbitencourt/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/xlucasbitencourt/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasbitencourt/) 
 
 
 <!--isso aqui é um teste
