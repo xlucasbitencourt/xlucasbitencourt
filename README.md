@@ -85,4 +85,4 @@ Exemplo: `tp-trivia` é o projeto trívia.
 - [Trivia](https://github.com/xlucasbitencourt/tp-trivia)
 - [Wallet](https://github.com/xlucasbitencourt/tp-wallet)
 
-Em breve, mais projetos disponíveis!
+Em breve mais projetos disponíveis!
