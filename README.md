@@ -9,9 +9,9 @@
 
 ## Olá 👋 
 
-### Me chamo Lucas, sou desenvolvedor front-end e estou estudando para me tornar desenvolvedor full-stack!
+### Me chamo Lucas, desenvolvedor full-stack!
 
-Atualamente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.com/).
+Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.com/).
 
 #### Sobre o que possuo conhecimento atualmente:
 
