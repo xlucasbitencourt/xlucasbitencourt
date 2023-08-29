@@ -1,7 +1,5 @@
-![Snake animation](https://github.com/xlucasbitencourt/xlucasbitencourt/blob/output/github-contribution-grid-snake.svg)
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=xlucasbitencourt&theme=city_lights&show_icons=true&count_private=true)
-
+<!-- ![Snake animation](https://github.com/xlucasbitencourt/xlucasbitencourt/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=xlucasbitencourt&theme=city_lights&show_icons=true&count_private=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlucasbitencourt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -21,6 +19,8 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,9 +31,15 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 <br>
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <br>
+![MaterialUI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+<br>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
 <br>
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br>
@@ -42,6 +48,8 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+<br>
+![Sequelize](https://img.shields.io/badge/sequelize-%23121011.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 <br>
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 <br>
@@ -55,7 +63,9 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 <br>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <br>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
