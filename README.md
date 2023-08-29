@@ -75,11 +75,9 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 
 ### Sobre mim
 
-Sou do Rio de Janeiro, formado em Administração, e amante de tecnologia.
-Gosto de jogos, música, natureza, e gatos! (principalmente, gatos!)
+Nascido no Rio de Janeiro, e morando atualmente em Maringá - PR, sou programador full stack, possuindo várias habilidades em desenvolvimento web, como HTML, CSS, JavaScript, React, Node, SQL, entre outras.
 
-Estou disponível para trabalho e para contribuição em projetos. Mande uma mensagem se estiver interessado.
-
+Fique à vontade para entrar em contato comigo, e também para contribuir com meus projetos!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasbitencourt/) 
 
