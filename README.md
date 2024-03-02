@@ -75,7 +75,7 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 
 ### Sobre mim
 
-Nascido no Rio de Janeiro, e morando atualmente em Maringá - PR, sou programador full stack, possuindo várias habilidades em desenvolvimento web, como HTML, CSS, JavaScript, React, Node, SQL, entre outras.
+Nascido no Rio de Janeiro, e morando atualmente em Nova Friburgo, sou programador full stack, possuindo várias habilidades em desenvolvimento web, como HTML, CSS, JavaScript, React, Node, SQL, entre outras.
 
 Fique à vontade para entrar em contato comigo, e também para contribuir com meus projetos!
 
