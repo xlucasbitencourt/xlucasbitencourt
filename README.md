@@ -9,7 +9,7 @@
 
 ### Me chamo Lucas, desenvolvedor full-stack!
 
-Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.com/).
+Possuo experiência desenvolvendo em React (Vite, Next.js), Node.js, Java, C#, além de banco de dados SQL e NoSQL.
 
 #### Sobre o que possuo conhecimento atualmente:
 
@@ -19,11 +19,15 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
@@ -63,19 +67,13 @@ Atualmente, faço curso de desenvolvimento web pela [Trybe](https://www.betrybe.
 <br>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <br>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 <br>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### Sobre mim
-
-Nascido no Rio de Janeiro, e morando atualmente em Nova Friburgo, sou programador full stack, possuindo várias habilidades em desenvolvimento web, como HTML, CSS, JavaScript, React, Node, SQL, entre outras.
+### Contato
 
 Fique à vontade para entrar em contato comigo, e também para contribuir com meus projetos!
 
@@ -85,10 +83,6 @@ Fique à vontade para entrar em contato comigo, e também para contribuir com me
 
 Possuo projetos realizados, que estão em seus respectivos repositórios.
 Você pode conferí-los pelo meu [site](https://lucasbitencourt.com.br) e tamém nos links abaixo.
-
-Repositórios iniciados com `tp` são projetos realizados de acordo com os requisitos determinados pela Trybe.
-
-Exemplo: `tp-trivia` é o projeto trívia.
 
 - [Blogs API](https://github.com/xlucasbitencourt/tp-blogs-api)
 - [Trivia](https://github.com/xlucasbitencourt/tp-trivia)
